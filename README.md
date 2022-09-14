@@ -1,4 +1,5 @@
- <img src="C:\Users\sk\Downloads\rsz_slide2.png" width="1000" height="300"> 
+
+ <img src="https://camo.githubusercontent.com/..." data-canonical-src="../Downloads/rsz_slide2.PNG" width="800" height="200" />
  
  ### Hi there 👋, my name is Sharnon shahriar
 #### A Data Investigator with a aptitue for crunching numbers and believes in Data for Good.
