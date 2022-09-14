@@ -1,5 +1,6 @@
-![rsz_slide2](https://user-images.githubusercontent.com/105856982/190072750-e8ecd36f-1adb-4bff-96a6-d5f9f9f99cce.png)
-### Hi there 👋, my name is Sharnon shahriar
+ <img src="C:\Users\sk\Downloads\rsz_slide2.png" width="1000" height="300"> 
+ 
+ ### Hi there 👋, my name is Sharnon shahriar
 #### A Data Investigator with a aptitue for crunching numbers and believes in Data for Good.
 
 
